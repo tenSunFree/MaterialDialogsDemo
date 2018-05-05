@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">MaterialDialogsDemo</string>
+    <string name="dialog_title">接受條款與條件</string>
+    <string name="dialog_content">請確定這是您組織的正確資訊\n如果資訊不正確, 請與您的經銷商聯絡\n\n組織地址: XXXX XXXX XXXX\n經銷商資訊: XXXX XXXX XXXX\n
+    </string>
+</resources>

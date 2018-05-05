@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#282726</color>
+
+    <color name="dialog_positive">#bda589</color>
+    <color name="dialog_negative">#6a8a82</color>
+    <color name="dialog_positive_text">#60282726</color>
+    <color name="dialog_positive_text_agree">#282726</color>
+    <color name="dialog_negative_text">#60282726</color>
+    <color name="dialog_title">#282726</color>
+    <color name="dialog_content">#563838</color>
+    <color name="dialog_background">#6a8a82</color>
+</resources>
